@@ -1,0 +1,29 @@
+.checked {
+  text-decoration: line-through;
+}
+
+.no-style {
+  list-style: none;
+}
+
+.padding-bt {
+  padding-bottom: 7px;
+}
+
+.mr-tp {
+  mr-top: 7px;
+}
+
+.mr-left {
+  margin-left: 7px;
+}
+
+.hover-grey:hover {
+  background-color: #eee;
+  border-radius: 4px;
+}
+
+.pd-tp-bt {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
